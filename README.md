@@ -1,2 +1,2 @@
 # django_restapi_testing
-testing the rest api (1)
+testing the rest api
