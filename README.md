@@ -1,2 +1,2 @@
 # django_restapi_testing
-testing the aasjkdbfjkbwifkjasnfkadfksdklfnklsdnklfndkl
+testing the rest api
